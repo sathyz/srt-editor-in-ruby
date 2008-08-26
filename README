@@ -1,0 +1,8 @@
+Usage:
+=====
+
+$ ruby delayed.rb <srt file> <[+|-]time>
+
+time => +5,345 ( 5 sec, 345 milli sec ) , -23:32 , 09:12:33,120
+
+the resulting file will be saved as delayed.srt in the current directory
